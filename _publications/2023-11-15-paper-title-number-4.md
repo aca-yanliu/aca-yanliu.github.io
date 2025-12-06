@@ -1,0 +1,14 @@
+---
+title: "A Novel Transformer-Based Approach for Simultaneous Recognition of Hand Movements and Force Levels in Amputees Using Flexible Ultrasound Transducers"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-11-15-paper-title-number-4
+excerpt: 'In this paper, we used a self-designed lightweight, flexible, and wearable ultrasound transducer for data acquisition and  proposed a novel Sonomyography Transformer (SMGT) model  for simultaneously recognizing hand movements and force levels. This study may promote the applications of intelligent prosthetic hands and rehabilitation engineering.'
+date: 2023-11-15
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10318819'
+citation: 'Peng X, Liu Y, Tan F, et al. A novel transformer-based approach for simultaneous recognition of hand movements and force levels in amputees using flexible ultrasound transducers[J]. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 4580-4590.'
+---
+
+Accurate hand motion intention recognition is essential for the intuitive control of intelligent prosthetic hands and other human-machine interaction systems. Sonomyography, which can detect the changes in muscle morphology and structure precisely, is a promising signal source for fine hand movement recognition. However, sonomyography measured by traditional rigid ultrasound probes may suffer from poor acoustic coupling because the rigid probe surfaces cannot accommodate the curvilinear shape of the human body, particularly in the case of small and irregular residual limbs in amputees. In this study, we used a self-designed lightweight, flexible, and wearable ultrasound transducer to acquire muscle ultrasound images, and proposed a sonomyography transformer (SMGT) model for simultaneous recognition of hand movements and force levels. The performance of SMGT was systematically compared to two commonly used image processing methods, HOG and Gray Gradient, as well as a deep CNN model, in simultaneously recognizing ten classes of hand/finger movements and three force levels. Additionally, ten subjects including seven non-disabled subjects and three trans-radial amputees who are the end users of prosthetic hands were recruited to evaluate the effectiveness of SMGT. Results showed that our proposed method achieved average classification accuracies of 98.4% ± 0.6% and 96.2% ± 3.0% in non-disabled subjects and amputee subjects, respectively, which are much higher than those of other methods. This study provided a valuable approach for ultrasound-based hand motion recognition that may promote the applications of intelligent prosthetic hands.

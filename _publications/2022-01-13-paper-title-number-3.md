@@ -1,0 +1,15 @@
+---
+title: "A Novel Motion Recognition Method Based on Force Myography of Dynamic Muscle Contractions"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-01-13-paper-title-number-3
+excerpt: 'This study proposed a novel RSC-based motion recognition  method. In this method, a novel piezoelectret force-sensitive  sensor was used to record the RSC signals that were produced  by dynamic pressure distributions on the skin surface. The work of this study would provide help  to improve the robustness of motion pattern recognition, and  the proposed RSC-based method may be a promising alternative  approach for multifunctional prosthesis control.'
+date: 2022-01-13
+venue: 'Frontiers in Neuroscience'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.783539/full'
+citation: 'Li X, Zheng Y, Liu Y, et al. A novel motion recognition method based on force myography of dynamic muscle contractions[J]. Frontiers in Neuroscience, 2022, 15: 783539.'
+---
+
+Surface electromyogram-based pattern recognition (sEMG-PR) has been considered as the most promising method to control multifunctional prostheses for decades. However, the commercial applications of sEMG-PR in prosthetic control is still limited due to the ambient noise and impedance variation between electrodes and skin surface. In order to reduce these issues, a force-myography-based pattern recognition method was proposed. In this method, a type of polymer-based flexible film sensors, the piezoelectrets, were used to record the rate of stress change (RSC) signals on the muscle surface of eight able-bodied subjects for six hand motions. Thirteen time domain features and four classification algorithms of linear discriminant analysis (LDA), K-nearest neighbor (KNN), artificial neural network (ANN), and support vector machine (SVM) were adopted to decode the RSC signals of different motion classes. In addition, the optimal feature set, classifier, and analysis window length were investigated systematically. Results showed that the average classification accuracy was 95.5 ± 2.2% by using the feature combination of root mean square (RMS) and waveform length (WL) for the classifier of KNN, and the analysis window length of 300 ms was found to obtain the best classification performance. Moreover, the robustness of the proposed method was investigated, and the classification accuracies were observed above 90% even when the white noise ratio increased to 50%. The work of this study demonstrated the effectiveness of RSC-based pattern recognition method for motion classification, and it would provide an alternative approach for the control of multifunctional prostheses.

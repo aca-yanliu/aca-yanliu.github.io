@@ -1,0 +1,14 @@
+---
+title: "Simultaneous hand/wrist motion recognition and continuous grasp force   estimation based on nonlinear spectral sEMG features for   transradial amputees"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-05-30-paper-title-number-2
+excerpt: 'In this paper, we proposed a framework of fusing the robust motion   classification and continuous grasp force estimation. In the framework,   three new spectral features were extracted from the nonlinear Melfrequency spectrum of EMG signals, in which the difference of spectrum power between adjacent channels (ch-MFSLD) and adjacent frequency bands (fr-MFSLD) were capable of strong robustness to force   variations, and the feature of average power of each frequency band   across channels (meanfr-MFSL) was used to estimate the continuous   grasp force.'
+date: 2023-05-30
+venue: 'Biomedical Signal Processing and Control'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1746809423004779'
+citation: 'Li X, Liu Y, Zhou X, et al. Simultaneous hand/wrist motion recognition and continuous grasp force estimation based on nonlinear spectral sEMG features for transradial amputees[J]. Biomedical Signal Processing and Control, 2023, 85: 105044.'
+---
+
+Simultaneously and accurately estimating both grasp motion classes and force based on surface electromyogram  (EMG) of residual arms is essential for precise grasping with a dexterous prosthetic hand. However, accurate   grasping-mode prediction and grasping-force estimation often contradict each other. When performing hand   grasping motion, different grasping forces will generate different EMG patterns, which would decay the grasp   motion prediction accuracy. In this study, we proposed a framework of fusing motion classification and   continuous grasp force estimation based on a new set of nonlinear Mel-Frequency Spectrum features of EMG   signals. The performance of the proposed method was tested on eight able bodied (AB) subjects and four   transradial amputees (TR) who are the end-users of dexterous prostheses. The experimental results showed that   the newly proposed features obtained a significant reduction in the average classification error rate compared to   other well-known feature sets, achieving improvements of about 5 % to 28 % in the average classification accuracy across all subjects and force levels. Simultaneously, the proposed features obtained the best continuous   grasp force estimation accuracies with R2 (coefficient of determination) of 0.96 and 0.83, and root mean square   of maximum voluntary contractions of grasp force (std%GFMVC) of 6.2 % and 10.5 % for the AB and TR subjects,   respectively, compared to the previous EMG features. This study suggested that the proposed method would be   helpful for the stable and fine manipulation of multifunctional prosthetic hand.
