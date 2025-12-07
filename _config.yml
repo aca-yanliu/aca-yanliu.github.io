@@ -22,7 +22,7 @@ repository               : "aca-yanliu/aca-yanliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-LY.png"
   name             : "Yan Liu"
   pronouns         : "PhD"  
   bio              : "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
